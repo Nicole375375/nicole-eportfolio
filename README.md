@@ -1,2 +1,5 @@
-# nicole-eportfolio
-My eportfolio website (https://nicolelee-eportfolio.mystrikingly.com)
+nicole-eportfolio
+==================================================================================================================================
+
+
+My [eportfolio](https://nicolelee-eportfolio.mystrikingly.com) website 
